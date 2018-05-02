@@ -1,0 +1,11 @@
+/* 
+  InfoPlist.strings
+  AllMarket
+
+  Created by MAC on 2017. 8. 9..
+  Copyright © 2017년 MinJu. All rights reserved.
+*/
+
+NSCameraUsageDescription = "카메라에 접근합니다.";
+NSPhotoLibraryUsageDescription = "사진에 접근합니다.";
+

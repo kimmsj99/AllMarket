@@ -1,0 +1,95 @@
+/* 
+  Localizable.strings
+  AllMarket
+
+  Created by MAC on 2017. 8. 9..
+  Copyright © 2017년 MinJu. All rights reserved.
+*/
+
+"okTitle" = "OK";
+"cancelTitle" = "Cancel";
+"resetTitle" = "Reset";
+"updateTitle" = "Sửa đổi";
+"deleteTitle" = "Xoá";
+"sell" = "Bán";
+"buy" = "Mua";
+"findPWTitle" = "Tìm mật khẩu";
+"categoryTitle" = "Thể loại";
+"itemInfo" = "Thông tin sản phẩm";
+"filteringTitle" = "Lọc filter";
+"itemRegistTitle" = "Đăng ký sản phẩm";
+"historyTitle" = "lịch sử";
+"saleItem" = "Bán sản phẩm";
+"evnetTitle" = "Biến cố";
+"suggest" = "Sự kiện được đề xuất";
+"affiliate" = "Sự kiện liên kết";
+"exhibition" = "Triển lãm";
+"eventDetail" = "Event cebu";
+"noticeTitle" = "Sự thông cáo";
+"myNoticeTitle" = "Tin tức của tôi";
+"notice" = "Để ý";
+"profileTitle" = "Hồ sơ";
+"followerTitle" = "Tín đồ";
+"followingTitle" = "Lần sau";
+"changeTelTitle" = "Đổi số điện thoại";
+"newPWTitle" = "Đặt mật khẩu mới";
+"contact" = "Yêu cầu 1:1";
+"reply" = "Trả lời 1:1";
+"conditionsTitle" = "Xem Điều khoản và Điều kiện";
+"touTitle" = "Điều khoản và quy định sử dụng";
+"privateTitle" = "Báo cáo Chính sách Bảo mật";
+"myItemTitle" = "Sản phẩm của tôi";
+"itemModify" = "Chỉnh sửa sản phẩm";
+"wishListTitle" = "Hàng nhồi bông";
+"commentTitle" = "Quản lý nhận xét";
+"pushAlertType" = "Đẩy cài đặt thông báo";
+"askTitle" = "Đặt một câu hỏi";
+"programInfoTitle" = "Thông tin chương trình";
+"selectlangTitle" = "Thông tin chương trình";
+"logoutTitle" = "Đăng xuất";
+"withdrawalTitle" = "Rút tiền";
+"certalertSuccess" = "Đã hoàn thành chứng nhận.";
+"certalertFail" = "Không đếm số chứng nhận.";
+"emailInput" = "Hãy nhập vào email.";
+"pwInput" = "Hãy nhập mật khẩu của mình.";
+"notEmail" = "Đây không phải là một dạng thư điện tử.";
+"inputCert" = "Vui lòng nhập mã xác thực.";
+"sentCertNum" = "Mã xác nhận đã được gửi.";
+"sentTempPW" = "Ngài đã gửi một mật khẩu tạm thời qua email.";
+"overlapEmail" = "Lặp lại email.";
+"inputNickname" = "Hãy nhập vào một biệt danh.";
+"inputPhoneNum" = "Hãy nhập số điện thoại.";
+"nickOK" = "Những biệt danh có thể sử dụng.";
+"overlapNick" = "Sao cái tên.";
+"phoneNumOK" = "số có thể dùng điện thoại di động.";
+"overlapPhoneNum" = "Nhân đôi số điện thoại.";
+"notPhoneNum" = "Đây không phải là số lượng hợp lệ điện thoại di động.";
+"checkEmail" = "Làm ơn kiểm tra Email.";
+"pwMinimum" = "Hãy nhập vào hơn 6 ký tự bằng cách làm mật khẩu với số lượng và tiếng Anh.";
+"checkNickname" = "Vui lòng kiểm tra nickname.";
+"checkPhoneNum" = "Vui lòng kiểm tra số điện thoại.";
+"joinOK" = "Dính ngay thành viên.";
+"joinFail" = "Việc tham gia thành viên.";
+"notmatchPW" = "Mật khẩu không khớp.";
+"loginFail" = "Thất bại trong việc đăng nhập";
+"again" = "Hãy thử lại xem.";
+"inputTempPw" = "Vui lòng nhập mật khẩu tạm thời.";
+"checkTempPw" = "Làm ơn kiểm tra mật khẩu tạm thời.";
+"searchPlacholder" = "Tìm trong tất cả các loại";
+"changeProfilImg" = "Thay đổi hình profile";
+"imageUpload" = "Đăng ký sản phẩm";
+"openCamera" = "Thuật chụp ảnh";
+"openAlbum" = "Tìm album";
+"resetConfirm" = "Bạn có thực sự muốn khởi tạo?";
+"ItemsCnt" = "Số thứ tự ";
+"followerCnt" = " | Người theo dõi ";
+"withdrawalConfirm" = "Thông tin về tất cả các ấn phẩm sẽ được cứu sau khi rút tiền và sẽ không phải là bạn - quired cho hai tuần . Ông có muốn để lại?";
+"pushType" = "Các loại cảnh báo";
+"changePhoneNumOK" = "Số điện thoại di động đã được thay đổi.";
+"unfollow" = "Unfollow";
+"inputSearchText" = "Hãy nhập từ khóa tìm kiếm.";
+"notchangefb" = "Các thành viên trên facebook không thể thay đổi mật khẩu.";
+"contentCheck" = "Bạn có chắc chắn muốn hủy nội dung không? Nội dung hiện đang được tạo không được lưu.";
+"networdCheck" = "Làm ơn kiểm tra môi trường mạng.";
+"appExit" = "App kết thúc rồi.";
+"warningMem" = "Đầu tiên là báo động viên .";

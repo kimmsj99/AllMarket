@@ -1,0 +1,95 @@
+/* 
+  Localizable.strings
+  AllMarket
+
+  Created by MAC on 2017. 8. 9..
+  Copyright © 2017년 MinJu. All rights reserved.
+*/
+
+"okTitle" = "OK";
+"cancelTitle" = "Cancel";
+"resetTitle" = "Reset";
+"updateTitle" = "Modify";
+"deleteTitle" = "Delete";
+"sell" = "Sell";
+"buy" = "Buy";
+"findPWTitle" = "Find your Password";
+"categoryTitle" = "Category";
+"itemInfo" = "Product Information";
+"filteringTitle" = "Filtering Option";
+"itemRegistTitle" = "Product registration";
+"historyTitle" = "History";
+"saleItem" = "Selling product";
+"evnetTitle" = "Event";
+"suggest" = "Suggested event";
+"affiliate" = "Affiliation event";
+"exhibition" = "Exhibitions";
+"eventDetail" = "Event Detail";
+"noticeTitle" = "Notice";
+"myNoticeTitle" = "My news";
+"notice" = "Notice";
+"profileTitle" = "Profile";
+"followerTitle" = "Follower";
+"followingTitle" = "Following";
+"changeTelTitle" = "Change phone number";
+"newPWTitle" = "Set a New Password";
+"contact" = "1:1 Inquiry";
+"reply" = "1:1 reply";
+"conditionsTitle" = "View the Terms and Conditions";
+"touTitle" = "Terms and conditions of use";
+"privateTitle" = "Privacy Policy Statement";
+"myItemTitle" = "My Product";
+"itemModify" = "Product Modify";
+"wishListTitle" = "Wish List";
+"commentTitle" = "Manage Comment";
+"pushAlertType" = "Push Notification Setting";
+"askTitle" = "Ask a Question";
+"programInfoTitle" = "Program Information";
+"selectlangTitle" = "Select Language";
+"logoutTitle" = "Log out";
+"withdrawalTitle" = "Withdrawal";
+"certalertSuccess" = "Certification has been completed.";
+"certalertFail" = "Authentication number mismatch.";
+"emailInput" = "Please enter email.";
+"pwInput" = "Please enter your password.";
+"notEmail" = "This is not an email format.";
+"inputCert" = "Enter authentication number.";
+"sentCertNum" = "Your verification number has been sent.";
+"sentTempPW" = "You have sent a temporary password via email.";
+"overlapEmail" = "Duplicate email exists.";
+"inputNickname" = "Please enter a nickname.";
+"inputPhoneNum" = "Please enter your phone number.";
+"nickOK" = "The nickname is available to use.";
+"overlapNick" = "Duplicate nickname.";
+"phoneNumOK" = "Available mobile phone number.";
+"overlapPhoneNum" = "Duplicate phone number.";
+"notPhoneNum" = "This is not a valid cell phone number.";
+"checkEmail" = "Please check your E-mail.";
+"pwMinimum" = "Please enter more than 6 characters by blending the password in English and numbers.";
+"checkNickname" = "Please check your Nickname.";
+"checkPhoneNum" = "Please check your phone number";
+"joinOK" = "Joined membership.";
+"joinFail" = "Failed to join membership.";
+"notmatchPW" = "Passwords do not match.";
+"loginFail" = "Login failed";
+"again" = "Please try again.";
+"inputTempPw" = "Please enter a temporary password.";
+"checkTempPw" = "Please check your temporary password.";
+"searchPlacholder" = "Search in all categories";
+"changeProfilImg" = "Change Profile Photography";
+"imageUpload" = "Product photography registration";
+"openCamera" = "Photography";
+"openAlbum" = "Find Album";
+"resetConfirm" = "Do you really want to initialize?";
+"ItemsCnt" = "Number of Items ";
+"followerCnt" = " | Follower ";
+"withdrawalConfirm" = "Information on all publications will be saved after withdrawal and will not be re - quired for two weeks. Would you like to leave?";
+"pushType" = "Types of alerts";
+"changePhoneNumOK" = "Your mobile phone number has been changed.";
+"unfollow" = "Unfollow";
+"inputSearchText" = "Please enter a search term.";
+"notchangefb" = "Facebook members can not change passwords.";
+"contentCheck" = "Are you sure you want to cancel the contents? The contents currently being created are not saved.";
+"networdCheck" = "Please check your network environment.";
+"appExit" = "Apps will exit.";
+"warningMem" = "First alert member.";

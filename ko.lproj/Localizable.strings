@@ -1,0 +1,95 @@
+/* 
+  Localizable.strings
+  AllMarket
+
+  Created by MAC on 2017. 8. 9..
+  Copyright © 2017년 MinJu. All rights reserved.
+*/
+
+"okTitle" = "확인";
+"cancelTitle" = "취소";
+"resetTitle" = "초기화";
+"updateTitle" = "수정하기";
+"deleteTitle" = "삭제하기";
+"sell" = "팝니다";
+"buy" = "삽니다";
+"findPWTitle" = "비밀번호 찾기";
+"categoryTitle" = "카테고리";
+"itemInfo" = "상품 정보";
+"filteringTitle" = "필터링 옵션";
+"itemRegistTitle" = "상품 등록";
+"historyTitle" = "히스토리";
+"saleItem" = "판매 상품";
+"evnetTitle" = "이벤트";
+"suggest" = "추천 이벤트";
+"affiliate" = "제휴 이벤트";
+"exhibition" = "기획전";
+"eventDetail" = "이벤트 상세보기";
+"noticeTitle" = "알림";
+"myNoticeTitle" = "내 소식";
+"notice" = "공지사항";
+"profileTitle" = "프로필";
+"followerTitle" = "팔로워";
+"followingTitle" = "팔로잉";
+"changeTelTitle" = "전화번호 변경";
+"newPWTitle" = "새 비밀번호 설정";
+"contact" = "1:1 문의";
+"reply" = "1:1 답변";
+"conditionsTitle" = "약관 전문보기";
+"touTitle" = "이용약관";
+"privateTitle" = "개인정보 취급 방침";
+"myItemTitle" = "나의 상품";
+"itemModify" = "상품 수정";
+"wishListTitle" = "찜한 상품";
+"commentTitle" = "댓글 관리";
+"pushAlertType" = "푸시 알림 설정";
+"askTitle" = "질문하기";
+"programInfoTitle" = "프로그램 정보";
+"selectlangTitle" = "언어 선택";
+"logoutTitle" = "로그아웃";
+"withdrawalTitle" = "회원탈퇴";
+"certalertSuccess" = "인증이 완료되었습니다.";
+"certalertFail" = "인증번호가 일치하지 않습니다.";
+"emailInput" = "이메일을 입력해주세요.";
+"pwInput" = "비밀번호를 입력해주세요.";
+"notEmail" = "이메일 형식이 아닙니다.";
+"inputCert" = "인증번호를 입력해주세요.";
+"sentCertNum" = "인증번호를 보냈습니다.";
+"sentTempPW" = "이메일로 임시 비밀번호를 발송하였습니다.";
+"overlapEmail" = "중복된 이메일이 존재합니다.";
+"inputNickname" = "닉네임을 입력해주세요.";
+"inputPhoneNum" = "전화번호를 입력해주세요.";
+"nickOK" = "사용가능한 닉네임입니다.";
+"overlapNick" = "중복된 닉네임입니다.";
+"phoneNumOK" = "사용가능한 휴대폰번호 입니다.";
+"overlapPhoneNum" = "중복된 전화번호입니다.";
+"notPhoneNum" = "올바른 핸드폰 번호가 아닙니다.";
+"checkEmail" = "이메일을 확인해주세요.";
+"pwMinimum" = "비밀번호를 영어, 숫자를 혼합하여 6자 이상 입력해주세요.";
+"checkNickname" = "닉네임을 확인해주세요.";
+"checkPhoneNum" = "전화번호를 확인해주세요.";
+"joinOK" = "회원가입이 완료되었습니다.";
+"joinFail" = "회원가입에 실패하였습니다.";
+"notmatchPW" = "비밀번호가 일치하지 않습니다.";
+"loginFail" = "로그인 실패";
+"again" = "다시 시도해주세요.";
+"inputTempPw" = "임시 비밀번호를 입력해주세요.";
+"checkTempPw" = "임시 비밀번호를 확인해주세요.";
+"searchPlacholder" = "전체 카테고리에서 검색";
+"changeProfilImg" = "프로필 사진 변경";
+"imageUpload" = "상품 사진 등록";
+"openCamera" = "사진 촬영하기";
+"openAlbum" = "앨범에서 찾기";
+"resetConfirm" = "정말 초기화하시겠습니까?";
+"ItemsCnt" = "상품수 ";
+"followerCnt" = " | 팔로워 ";
+"withdrawalConfirm" = "탈퇴 후에도 모든 게시물의 정보는 저장되며, 2주 동안 재가입이 불가능합니다. 탈퇴하시겠습니까?";
+"pushType" = "알림 종류";
+"changePhoneNumOK" = "휴대폰번호가 변경되었습니다.";
+"unfollow" = "팔로우 취소";
+"inputSearchText" = "검색어를 입력해주세요.";
+"notchangefb" = "페이스북 회원은 비밀번호 변경을 할 수 없습니다.";
+"contentCheck" = "작성 중인 내용을 취소하시겠습니까? 현재 작성 중인 내용은 저장되지 않습니다.";
+"networdCheck" = "네트워크 환경을 확인해주세요.";
+"appExit" = "앱이 종료됩니다.";
+"warningMem" = "1차 경고 회원입니다.";

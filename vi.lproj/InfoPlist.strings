@@ -1,0 +1,10 @@
+/* 
+  InfoPlist.strings
+  AllMarket
+
+  Created by MAC on 2017. 8. 9..
+  Copyright © 2017년 MinJu. All rights reserved.
+*/
+
+NSCameraUsageDescription = "Bạn cần tiếp cận với camera của bạn.";
+NSPhotoLibraryUsageDescription = "Bạn cần tiếp cận với album ảnh của bạn.";
